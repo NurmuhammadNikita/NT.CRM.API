@@ -1,0 +1,6 @@
+@NT.CRM.API_HostAddress = http://localhost:5183
+
+GET {{NT.CRM.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
